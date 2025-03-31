@@ -1,0 +1,29 @@
+.navigation {
+    background-color: #34495e;
+    color: white;
+    width: 100%;
+}
+
+.navigation_wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    width: 100%;
+    max-width: 1200px;
+    margin: 0px auto;
+}
+
+.navigation_list {
+    display: flex;
+    gap: 20px;
+}
+
+.navigation_list a {
+    color: white;
+    text-decoration: none;
+}
+
+.navigation_list a:hover {
+    color: #f39c12;
+}

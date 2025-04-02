@@ -9,6 +9,7 @@ const Navigation = () => {
                 <nav className="navigation_list">
                     <Link to="/">Home</Link>
                     <Link to="/about">About</Link>
+                    <Link to="/team">Team</Link>
                     <Link to="/contact">Contact</Link>
                     {/* <Link to="/users">Users</Link> */}
                 </nav>

@@ -28,7 +28,7 @@ const About = () => {
     return (
         <div className="about_wrapper">
             <div className="about_main">
-                <h1>ABOUT</h1>
+                <h1>ABOUT - O NAMA</h1>
                 <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit.</p>
             </div>
 

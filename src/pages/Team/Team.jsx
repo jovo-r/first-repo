@@ -56,6 +56,7 @@ const Team = () => {
                     <TeamMember
                         key={member.id}
                         image={member.image}
+                        name={member.name}
                         about={member.about}
                         position={member.position}
                         facebookUrl={member.facebookUrl}

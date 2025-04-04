@@ -57,5 +57,9 @@
 }
 
 .member-social-networks img {
-    width: 30px;
+    width: 25px;
+}
+
+.member-name {
+    font-size: 22px;
 }
